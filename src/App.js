@@ -3,7 +3,7 @@ import "./App.css";
 import { Route, Switch } from "react-router-dom";
 import About from "../src/About";
 import Home from "../src/Home";
-import Contact from "../src/Contact";
+import Portfolio from "./Portfolio";
 
 const App = () => {
 	return (
@@ -16,7 +16,7 @@ const App = () => {
 					<About />
 				</Route>
 				<Route path="/contact">
-					<Contact />
+					<Portfolio />
 				</Route>
 			</Switch>
 		</div>
