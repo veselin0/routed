@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 
-const Contact = () => {
+const Portfolio = () => {
 	return (
 		<div>
 			<h2>Ecommerce Site</h2>
@@ -22,4 +22,4 @@ const Contact = () => {
 	);
 };
 
-export default Contact;
+export default Portfolio;
