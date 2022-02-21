@@ -6,7 +6,7 @@ const Portfolio = () => {
 			<h2>Ecommerce Site</h2>
 			<p>A minimalistic website written in Reactjs</p>
 			<a
-				href="https://veselin0.github.io/Ecommerce-Site/"
+				href="https://reactjs.org"
 				target="_blank"
 				rel="noopener noreferrer"
 			>
