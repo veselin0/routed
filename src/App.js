@@ -15,7 +15,7 @@ const App = () => {
 				<Route path="/about">
 					<About />
 				</Route>
-				<Route path="/contact">
+				<Route path="/portfolio">
 					<Portfolio />
 				</Route>
 			</Switch>
