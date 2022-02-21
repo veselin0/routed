@@ -4,9 +4,14 @@ const Contact = () => {
 	return (
 		<div>
 			<h2>Contact Page</h2>
-			<main>
-				<p>This section contains information about...</p>
-			</main>
+			<a
+				className="App-link"
+				href="https://reactjs.org"
+				target="_blank"
+				rel="noopener noreferrer"
+			>
+				Learn React
+			</a>
 			<Link to="/">Home</Link>
 		</div>
 	);
