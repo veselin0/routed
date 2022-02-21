@@ -1,7 +1,7 @@
-const About = () => {
+const Contact = () => {
 	return (
 		<div>
-			<h2>About Page</h2>
+			<h2>Contact Page</h2>
 			<main>
 				<p>This section contains information about...</p>
 			</main>
@@ -9,4 +9,4 @@ const About = () => {
 	);
 };
 
-export default About;
+export default Contact;
