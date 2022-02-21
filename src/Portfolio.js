@@ -11,12 +11,12 @@ const Portfolio = () => {
 				rel="noopener noreferrer"
 			>
 				Portfolio
-				{/* <img
+				<img
 					src={require("../src/imgs/ecommerce.png")}
 					alt="me"
 					width="500px"
 					height="300px"
-				/> */}
+				/>
 			</a>
 			<Link to="/">Home</Link>
 		</div>
