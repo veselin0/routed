@@ -10,7 +10,7 @@ const Portfolio = () => {
 				target="_blank"
 				rel="noopener noreferrer"
 			>
-				Portfolio
+				My Portfolio
 				<img
 					src={require("../src/imgs/ecommerce.png")}
 					alt="me"
