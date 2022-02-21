@@ -11,7 +11,7 @@ const Contact = () => {
 				rel="noopener noreferrer"
 			>
 				<img
-					src={require("../imgs/ecommerce.png")}
+					src={require("../src/imgs/ecommerce.png")}
 					alt="me"
 					width="500px"
 					height="300px"
